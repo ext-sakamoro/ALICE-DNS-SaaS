@@ -1,5 +1,5 @@
 apiVersion: v2
-name: alice-dns-saas
+name: alice-dns
 description: ALICE DNS
 type: application
 version: 0.1.0
